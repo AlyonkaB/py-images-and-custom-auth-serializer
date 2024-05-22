@@ -8,6 +8,4 @@ venv/
 **__pycache__/
 *.pyc
 **db.sqlite3
-cinema/tests
 media
-user/tests
